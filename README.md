@@ -1,6 +1,6 @@
 # JSON-Based-Data-Exercises
 
-Using data in file 'data/world_bank_projects.json',
+Working with json files in python.
 
 1. Find the 10 countries with most projects.
 
